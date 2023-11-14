@@ -1,3 +1,3 @@
 # iaw
 Repositorio Actividad 2 Julián
-[Nombre](/github_pages_jekyll.md)
+[Nombre](/jekyll_github_pages.md)
