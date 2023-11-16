@@ -52,6 +52,10 @@ Las últimas modificaciones serían añadir los nuevos post. Para ello pongo el 
 ## Paso 8:
 Finalmente, con el comando que se muestra en la captura abriríamos el puerto para poder acceder a la página. También se podría hacer con el siguiente comando: bundle exec jekyll serve --host "**la ip**" --port "***el puerto***".
 
+```
+bundle exec jekyll serve --host 10.0.16.220 --port 3000
+```
+
 ![Octavo](img/Captura6Actividad2conectar.PNG)
 
 ## Paso 9:
