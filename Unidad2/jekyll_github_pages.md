@@ -18,6 +18,9 @@ Una vez que conseguimos acceder, entramos en la caprpeta de Repositorios, y hace
 
 ## Paso 2:
 Entramos ahora en la actividad2JSR y hacemos un nuevo jekyll con el siguiente comando:
+```
+jekyll new actividad2julian
+```
 
 ![Segundo](img/Captura2Actividad2.PNG)
 
@@ -47,7 +50,11 @@ Las últimas modificaciones serían añadir los nuevos post. Para ello pongo el 
 ![Séptimo](img/Captura4Actividad2post.PNG)
 
 ## Paso 8:
-Finalmente, con el comando que se muestra en la captura abriríamos el puerto para poder acceder a la página. También se podría hacer con el siguiente comando: bundle exec jekyll serve --host "la ip" --port "el puerto".
+Finalmente, con el comando que se muestra en la captura abriríamos el puerto para poder acceder a la página. También se podría hacer con el siguiente comando: bundle exec jekyll serve --host "**la ip**" --port "***el puerto***".
+
+```
+bundle exec jekyll serve --host 10.0.16.220 --port 3000
+```
 
 ![Octavo](img/Captura6Actividad2conectar.PNG)
 
