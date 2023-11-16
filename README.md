@@ -1,3 +1,3 @@
 # iaw
-Repositorio Actividad 2 Julián
-[Nombre](/Unidad2/jekyll_github_pages.md)
+Repositorio Actividad 2 Julián  
+[Actividad2.1](/Unidad2/jekyll_github_pages.md)
