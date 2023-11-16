@@ -1,15 +1,15 @@
 # Práctica 2 Julián Sainz Rodríguez Jekyll
 
 ## Índice:
-[Primer paso](#paso-1)
-[Segundo paso](#paso-2)
-[Tercer paso](#paso-3)
-[Cuarto paso](#paso-4)
-[Quinto paso](#paso-5)
-[Sexto paso](#paso-6)
-[Séptimo paso](#paso-7)
-[Octavo paso](#paso-8)
-[Noveno paso](#paso-9)
+[Primer paso](#paso-1)  
+[Segundo paso](#paso-2)  
+[Tercer paso](#paso-3)  
+[Cuarto paso](#paso-4)  
+[Quinto paso](#paso-5)  
+[Sexto paso](#paso-6)  
+[Séptimo paso](#paso-7)  
+[Octavo paso](#paso-8)  
+[Noveno paso](#paso-9)  
 ## Paso 1:
 ![Primero](img/Captura1Actividad2.PNG)
 
