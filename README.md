@@ -12,10 +12,10 @@
 [Actividad2.1](/Unidad2/jekyll_github_pages.md)
 
 ### Esto es un enlace al apartado1:
-https://juliansr1233.github.io/actividad2JSR/
+[Apartado1](https://juliansr1233.github.io/actividad2JSR/)
 
 ### Esto es un enlace al apartado3
-https://juliansr1233.github.io/Lagrange/
+[Apartado3](https://juliansr1233.github.io/Lagrange/)
 
 ### Esto es un enlace al apartado4
-https://phenomenal-marzipan-3e714c.netlify.app/
+[Apartado4](https://phenomenal-marzipan-3e714c.netlify.app/)
