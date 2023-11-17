@@ -9,10 +9,10 @@
 
 ## Repositorio Actividad 2 Julián 
  
-[Actividad2.1](/Unidad2/jekyll_github_pages.md)
+[Apartado1](/Unidad2/jekyll_github_pages.md)
 
-### Esto es un enlace al apartado1:
-[Apartado1](https://juliansr1233.github.io/actividad2JSR/)
+### Esto es un enlace al apartado2:
+[Apartado2](https://juliansr1233.github.io/actividad2JSR/)
 
 ### Esto es un enlace al apartado3
 [Apartado3](https://juliansr1233.github.io/Lagrange/)
