@@ -8,11 +8,10 @@
 [Actividad1.3](/Unidad1/Taller3.md) 
 
 ## Repositorio Actividad 2 Julián 
- 
-[Apartado1](/Unidad2/jekyll_github_pages.md)
+[Apartado1](https://juliansr1233.github.io/actividad2JSR/)
 
 ### Esto es un enlace al apartado2:
-[Apartado2](https://juliansr1233.github.io/actividad2JSR/)
+[Apartado2](/Unidad2/jekyll_github_pages.md)
 
 ### Esto es un enlace al apartado3
 [Apartado3](https://juliansr1233.github.io/Lagrange/)
