@@ -39,7 +39,7 @@ docker run -it --rm -p 4000:4000 -v "$PWD:/srv/jekyll" jekyll/jekyll jekyll serv
 ```
 ![Img](img/Captura3.png)
 
-## Comprobamos desde nuestro 
+## Comprobamos desde nuestro navegador web si nos funciona, para ello ponemos la ip acompañado del puerto 4000:
 
 ![Img](img/Captura4.png)
 
