@@ -26,7 +26,7 @@ docker run -it --rm -v "$PWD:/srv/jekyll" jekyll/jekyll jekyll new blog
 
 ## Modificamos el archivo gemfile, el la parte de abajo añadimos gem "webrick"
 
-![Img](img/Captura3.png)
+![Img](img/CapturaGema3.png)
 
 ## Con este comando nos permite servir de forma local un sitio HTML estatico generado a partir del proyecto:
 
@@ -34,6 +34,7 @@ docker run -it --rm -v "$PWD:/srv/jekyll" jekyll/jekyll jekyll new blog
 El comando necesario es:
 docker run -it --rm -p 4000:4000 -v "$PWD:/srv/jekyll" jekyll/jekyll jekyll serve --force_polling
 ```
+![Img](img/Captura3.png)
 ![Img](img/Captura4.png)
 
 
