@@ -25,18 +25,38 @@
 
 
 ## Instalación de MariaDB
-
+![Imagen-1m](img/MARIADB/Paso1.PNG)
 ####
-
+![Imagen-2m](img/MARIADB/Paso2.PNG)
 ####
-
+![Imagen-3m](img/MARIADB/Paso3.PNG)
 ####
-
+![Imagen-4m](img/MARIADB/Paso4.PNG)
 ####
+![Imagen-5m](img/MARIADB/Paso5.PNG)
 
-####
+## Instalación phpmyadmin:
+![Imagen-1ph](img/)
+![Imagen-2ph]()
+![Imagen-3ph]()
+![Imagen-4ph]()
+![Imagen-5ph]()
+![Imagen-6ph]()
+![Imagen-7ph]()
+![Imagen-9ph]()
+![Imagen-10ph]()
+![Imagen-11ph]()
+![Imagen-12ph]()
+![Imagen-13ph]()
+![Imagen-14ph]()
+![Imagen-15ph]()
+![Imagen-16ph]()
+![Imagen-17ph]()
+![Imagen-18ph]()
+![Imagen-19ph]()
 
-####
+
+
 
 
 
