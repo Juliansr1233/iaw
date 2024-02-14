@@ -25,35 +25,42 @@
 
 
 ## Instalación de MariaDB
+#### Actualizamos los repositorios:
 ![Imagen-1m](img/MARIADB/Paso1.PNG)
-####
+#### Instalamos el servidor de base de datos y cliente:
 ![Imagen-2m](img/MARIADB/Paso2.PNG)
-####
+#### Acceso a MariaDB desde la consola servidor:
 ![Imagen-3m](img/MARIADB/Paso3.PNG)
-####
-![Imagen-4m](img/MARIADB/Paso4.PNG)
-####
+#### Cambiar la contraseña de root: 
 ![Imagen-5m](img/MARIADB/Paso5.PNG)
 
 ## Instalación phpmyadmin:
-![Imagen-1ph](img/)
-![Imagen-2ph]()
-![Imagen-3ph]()
-![Imagen-4ph]()
-![Imagen-5ph]()
-![Imagen-6ph]()
-![Imagen-7ph]()
-![Imagen-9ph]()
-![Imagen-10ph]()
-![Imagen-11ph]()
-![Imagen-12ph]()
-![Imagen-13ph]()
-![Imagen-14ph]()
-![Imagen-15ph]()
-![Imagen-16ph]()
-![Imagen-17ph]()
-![Imagen-18ph]()
-![Imagen-19ph]()
+#### Para llevar a cabo la instalación del PHPmyAdmin, tendríamos que poner lo siguiente:
+![Imagen-1ph](img/INSTALACION_PHPMYADMIN_EN_LAMP/Paso1.PNG)
+#### Durante el proceso de instalación no debemos de olvidarnos de elegir el servidor web apache2:
+![Imagen-2ph](img/INSTALACION_PHPMYADMIN_EN_LAMP/Paso2.PNG)
+#### Debemos de confirmar que queremos utilizar dbconfig-common: 
+![Imagen-3ph](img/INSTALACION_PHPMYADMIN_EN_LAMP/Paso-Antes3.PNG)
+#### Finalmente nos pedirá una contraseña para phpmyadmin:
+![Imagen-4ph](img/INSTALACION_PHPMYADMIN_EN_LAMP/Paso3.PNG)
+#### Nos pedirá que volvamos a confirmar la contraseña para ver si coinciden ambas:
+![Imagen-5ph](img/INSTALACION_PHPMYADMIN_EN_LAMP/Paso3-2.PNG)
+#### Nos pedirá también el método de acceso al phpmyadmin, en el que seleccionaremos mediante TCP/IP:
+![Imagen-6gbd](img/GBD/Paso1.PNG)
+#### Le indicaremos un nombre a la base de datos de phpmyadmin:
+![Imagen-7gbd](img/GBD/Paso2.PNG)
+#### Después un usuario para el phpmyadmin:
+![Imagen-9gbd](img/GBD/Paso3.PNG)
+#### Nos pedirá una contraseña:
+![Imagen-10gbd](img/GBD/Paso4.PNG)
+#### Y la confirmación de dicha contraseña:
+![Imagen-11gbd](img/GBD/Paso5.PNG)
+#### Después le indicaremos el nombre del usuario administrador de la base de datos, que en mí caso le he dicho que se llama root:
+![Imagen-12gbd](img/GBD/Paso6.PNG)
+#### Nos pedirá una contraseña para dicho usuario:
+![Imagen-13gbd](img/GBD/Paso7.PNG)
+#### Y finalmente nos conectamos mediante la IP pblica a nuestro phpmyadmin con el usuario creado anteriormente:
+![Imagen-14gbd](img/GBD/Paso8.PNG)
 
 
 
