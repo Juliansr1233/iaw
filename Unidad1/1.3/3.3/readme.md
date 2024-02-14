@@ -1,4 +1,4 @@
-## Instalación de WordPress usando contenedores Docker y Docker Compose
+## Actividad1.3.3: Instalación de WordPress usando contenedores Docker y Docker Compose
 
 #### Lo primero es desinstalar los paquetes que pueden entrar en conflicto
 ![Imagen-1dck](img/Paso1_Previo.PNG)

@@ -1,4 +1,4 @@
-## Instalación de WordPress en una instancia EC2 de AWS
+## Actividad1.3.2: Instalación de WordPress en una instancia EC2 de AWS
 
 #### Instalación de otros paquetes php necesarios:
 ![Imagen-1wrdp](img/Paso1.PNG)
