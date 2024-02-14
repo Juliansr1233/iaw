@@ -61,7 +61,10 @@
 ![Imagen-13gbd](img/GBD/Paso7.PNG)
 #### Y finalmente nos conectamos mediante la IP pblica a nuestro phpmyadmin con el usuario creado anteriormente:
 ![Imagen-14gbd](img/GBD/Paso8.PNG)
+#### Mostramos también los archivos que se nos han generado:
+![Imagen-15](img/INSTALACION_PHPMYADMIN_EN_LAMP/Paso_Antes_Instalacion2.PNG)
 
+![Imagen-16](img/INSTALACION_PHPMYADMIN_EN_LAMP/Paso_Antes_Instalacion.PNG)
 
 
 
